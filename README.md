@@ -10,7 +10,7 @@
 
 - IDE utilizada: Netbeans.
 - Java JDK.
-- Diagrama feito no [lucid](https://lucid.app/users/login#/login).
+- Diagrama de classe feito no [lucid](https://lucid.app/users/login#/login).
   
 ## Sobre o projeto
 
@@ -29,8 +29,8 @@
   - Cardapio: Array para percorrer todos os produtos e por tipo de produto também
   - Comanda: Usada para adicionar os produtos consumidos por um determinado cliente
   - Pessoa: Classe abstrata para cadastro de pessoas da lancheria
-  - Pessoa Cliente: Classe filha de Pessoa com características próprias.
-  - Pessoa Funcionário: Classe filha de Pessoa com características próprias.
+  - Pessoa Cliente: Classe filha de Pessoa com características próprias
+  - Pessoa Funcionário: Classe filha de Pessoa com características próprias
 
 ## Sobre mim
 
