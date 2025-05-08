@@ -11,7 +11,7 @@
 - IDE utilizada: Netbeans.
 - Java JDK.
 - Diagrama de classe feito no [lucid](https://lucid.app/users/login#/login).
-  
+
 ## Sobre o projeto
 
 - O projeto é um sistema de uma lancheria.
@@ -31,6 +31,8 @@
   - Pessoa: Classe abstrata para cadastro de pessoas da lancheria
   - Pessoa Cliente: Classe filha de Pessoa com características próprias
   - Pessoa Funcionário: Classe filha de Pessoa com características próprias
+
+![Diagrama_Classe](https://github.com/user-attachments/assets/bdabc382-0cad-45be-8b93-4561b93c8535)
 
 ## Sobre mim
 
